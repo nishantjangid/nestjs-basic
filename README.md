@@ -1,14 +1,16 @@
 **JWT USING MANUAL**
-For install require module just refer to this documentation
-[text](https://docs.nestjs.com/recipes/passport)
+>For install require module just refer to this documentation
+[Link](https://docs.nestjs.com/recipes/passport)
 
 
-**Commands**
+**Command**
+```
 npm install --save @nestjs/passport passport
+```
 
-[text](https://docs.nestjs.com/recipes/passport#jwt-functionality)
+[Link](https://docs.nestjs.com/recipes/passport#jwt-functionality)
 
-**Commands**
+**Command**
 npm install --save @nestjs/jwt passport-jwt
 npm install --save-dev @types/passport-jwt 
 
